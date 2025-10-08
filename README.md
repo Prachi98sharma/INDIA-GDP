@@ -64,5 +64,5 @@ Visualization:
 Plots historical GDP data vs predicted GDP for future years.
 
 ...........................................
-Image(
+Image(https://github.com/Prachi98sharma/INDIA-GDP/blob/main/Screenshot%202025-10-08%20163109.png)
 # India-GDP-Prediction
